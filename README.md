@@ -6,3 +6,4 @@ Hexagonal centric game engine
 - [ ] Level editor
 - [ ] Make a simple demo game
 - [ ] Convert Gnome Conquest Godot engine to utilize hexa 
+- [ ] OpenGL 
