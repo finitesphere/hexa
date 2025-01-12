@@ -8,3 +8,4 @@ Hexagonal centric game engine
 - [ ] Convert Gnome Conquest Godot engine to utilize hexa 
 - [ ] OpenGL
 - [ ] 2D
+- [ ] GLFW

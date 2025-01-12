@@ -1,0 +1,6 @@
+C:\Users\user123\source\repos\openGLdemo\openGLdemo\x64\Debug\openGLdemo.vcxproj.CopyComplete
+C:\Users\user123\source\repos\openGLdemo\openGLdemo\x64\Debug\hexa.exe
+C:\Users\user123\source\repos\openGLdemo\openGLdemo\x64\Debug\glfw3.dll
+C:\Users\user123\source\repos\hexa\hexa\x64\Debug\openGLdemo.vcxproj.CopyComplete
+C:\Users\user123\source\repos\hexa\hexa\x64\Debug\hexa.exe
+C:\Users\user123\source\repos\hexa\hexa\x64\Debug\glfw3.dll

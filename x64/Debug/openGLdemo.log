@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (openGLdemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\user123\source\repos\hexa\hexa\OpenGLLoader.h(29,35): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  openGLdemo.vcxproj -> C:\Users\user123\source\repos\hexa\hexa\x64\Debug\hexa.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
