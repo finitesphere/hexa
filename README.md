@@ -1,6 +1,9 @@
 # hexa
 Hexagonal centric game engine
 
+![](https://github.com/finitesphere/hexa/blob/main/hexa_barebones.png)
+
+
 ## TO DO/Plan:
 - [ ] Use C++
 - [ ] Level editor
