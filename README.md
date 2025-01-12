@@ -1,4 +1,4 @@
-# hexa
+## hexa
 Hexagonal centric game engine
 
 ![](https://github.com/finitesphere/hexa/blob/main/hexa_barebones.png)
@@ -11,4 +11,4 @@ Hexagonal centric game engine
 - [ ] Convert Gnome Conquest Godot engine to utilize hexa 
 - [ ] OpenGL
 - [ ] 2D
-- [ ] GLFW
+- [ ] USE GLFW
