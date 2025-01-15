@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\user123\Downloads\openGLdemo-vid3\openGLdemo\Source.cpp(57,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Hexa.vcxproj -> C:\Users\user123\Desktop\projects\other_software\hexa\src\Hexa\x64\Debug\Hexa.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
