@@ -12,3 +12,4 @@ Hexagonal centric game engine
 - [ ] OpenGL
 - [ ] 2D
 - [ ] USE GLFW
+- [ ] Cross platform compatability 
